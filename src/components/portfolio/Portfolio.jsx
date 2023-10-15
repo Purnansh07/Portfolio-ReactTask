@@ -19,7 +19,7 @@ const Portfolio = () => {
           </div>
           <h3>Calculator</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Purnansh07/ReactJSTask-Calculator" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/Purnansh07/Calculator-ReactTask" className='btn' target='_blank' rel="noreferrer">Github</a>
             <a href="https://calculator-react-task-pied.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -29,7 +29,7 @@ const Portfolio = () => {
           </div>
           <h3>Age Calculator</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Purnansh07/ReactJS-AgeCalculator" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/Purnansh07/AgeCalculator-ReactTask" className='btn' target='_blank' rel="noreferrer">Github</a>
             <a href="https://age-calculator-react-task-rho.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
@@ -39,7 +39,7 @@ const Portfolio = () => {
           </div>
           <h3>Word Counter</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/Purnansh07/ReactJS-WordCount" className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://github.com/Purnansh07/WordCount-ReactTask" className='btn' target='_blank' rel="noreferrer">Github</a>
             <a href="https://word-count-react-task.vercel.app/" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
